@@ -1,11 +1,15 @@
-# 
 print("-"*10, " Welcome to FreyaVerse RPG ", "-"*10)
-#
-# nickname = ["Dodo_Gergaji", "Edo_Knalpot", "Mail_Sepeda", "Supri_Boring", "Asep_Stroberi"]
-# password = []
-# level = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-# inventory = []
-#
+
+players = [
+    ["Dafa_Nokia", 15, ["Iron Sword", "Potion", "Leather Armor"]],
+    ["Marlon_Galon", 22, ["Magic Staff", "Mana Potion"]],
+    ["Ujang_Karbu", 10, ["Wooden Bow", "Arrow", "Potion"]],
+    ["Asep_Stroberi", 18, ["Dagger", "Shadow Cloak"]],
+    ["Supri_Knalpot", 30, ["Dragon Slayer", "Elixir", "Golden Shield"]],
+    ["Edo_Kopling", 12, ["Spear", "Healing Potion"]],
+    ["Dodo_Gergaji", 25, ["Battle Axe", "Stamina Potion", "Iron Helmet"]]
+]
+
 
 
 def input_data():
