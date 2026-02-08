@@ -1,11 +1,11 @@
 # 
-
-
-nickname = ["Dodo_Gergaji", "Edo_Knalpot", "Mail_Sepeda", "Supri_Boring", "Asep_Stroberi"]
-password = []
-level = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-inventory = []
-
+print("-"*10, " Welcome to FreyaVerse RPG ", "-"*10)
+#
+# nickname = ["Dodo_Gergaji", "Edo_Knalpot", "Mail_Sepeda", "Supri_Boring", "Asep_Stroberi"]
+# password = []
+# level = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# inventory = []
+#
 
 
 def input_data():
